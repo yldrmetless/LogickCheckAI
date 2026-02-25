@@ -2,11 +2,11 @@ LogicCheck AI
 LogicCheck AI is an AI-powered SaaS platform designed to analyze business ideas, generate comprehensive business plans, and provide strategic roadmaps for entrepreneurs.
 
 🔗 Project Links
-Live Demo: https://logiccheckai.onrender.com
+Live Demo: https://logic-check-ai-frontend.vercel.app/
 
-Backend Repository: [Insert Backend Repo URL Here]
+Backend Repository: https://github.com/yldrmetless/logiccheckai
 
-Frontend Repository: [Insert Frontend Repo URL Here]
+Frontend Repository: https://github.com/yldrmetless/logic_check_ai_frontend
 
 🚀 Key Features
 AI-Powered Analysis: Leverages advanced AI models to evaluate the logical consistency and market viability of business ideas.
